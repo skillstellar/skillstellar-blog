@@ -1,5 +1,5 @@
 ---
-path: blogs.skillstellar.com
+path: blog
 date: 2020-07-06T11:51:45.079Z
 title: How SkillStellar’s Live 1:1 Instruction Can Support Your Teachers During
   School Closures
