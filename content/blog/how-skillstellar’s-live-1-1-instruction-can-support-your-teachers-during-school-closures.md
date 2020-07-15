@@ -6,13 +6,13 @@ title: How SkillStellar’s Live 1:1 Instruction Can Support Your Teachers Durin
 description: "Extension of YOUR Teachers: Leveraging 1:1 Online Tutoring for
   After Hours Support"
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ description: "Extension of YOUR Teachers: Leveraging 1:1 Online Tutoring for
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="267">
@@ -309,15 +309,15 @@ description: "Extension of YOUR Teachers: Leveraging 1:1 Online Tutoring for
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /\* Style Definitions \*/
  table.MsoNormalTable
 	{
 
-\    mso-style-name:"Table Normal";
+        mso-style-name:"Table Normal";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -337,9 +337,9 @@ description: "Extension of YOUR Teachers: Leveraging 1:1 Online Tutoring for
 	mso-hansi-font-family:Calibri;
 	mso-hansi-theme-font:minor-latin;
 
-\    }
+    }
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
